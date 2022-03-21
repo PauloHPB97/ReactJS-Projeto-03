@@ -10,5 +10,5 @@
 ## Tela de chat
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/89206889/159373998-6685c45f-8bfb-4f25-82b0-fd1b29f4b572.jpg" width="700px" />
+<img src="https://user-images.githubusercontent.com/89206889/159374190-2b9aff58-aff3-47b1-bb70-6194ed282d7c.jpg" width="700px" />
 </div>
